@@ -1,9 +1,9 @@
-# Professional Read-Me Generator
+# Professional Read Me Generator 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-This is a professional Read Me Generator That uses Inquery and Node. It is easy to use and will help create a decent Readme for projects.
+This project uses a simple Terminal application to create a functional ReadMe for projects.
 
 ## Table of Contents 
 
@@ -33,7 +33,7 @@ npm i inquery node
 
 ## Usage
 
-This application will work to help create a simple comprehensive Readme application for future projects. 
+This application is used to be functional for a person in web developement. It is simple to use and will help with future projects.
 
 ## License
 
@@ -41,7 +41,7 @@ This project is licensed under the MIT license.
   
 ## Contributing
 
-Online classes
+Ben Machock Teacher
 
 ## Tests
 
@@ -53,5 +53,5 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at bell77@gmail.com. You can find more of my work at [Kristabell74](https://github.com/Kristabell74/).
+If you have any questions about the repo, open an issue or contact me directly at bell77iam@gmail.com. You can find more of my work at [https://github.com/Kristabell74/professional-readme-generator.git](https://github.com/https://github.com/Kristabell74/professional-readme-generator.git/).
 
