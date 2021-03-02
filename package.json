@@ -20,5 +20,5 @@
   },
   "homepage": "https://github.com/Kristabell74/professional-readme-generator#readme",
   "keywords": [],
-  "description": ""
+  "description": "// array of questions for user const inquirer = require('inquirer'); const fs = require('fs'); const util = require('util');"
 }

@@ -1,4 +1,3 @@
-//generate badge for license
 function renderLicenseBadge(license) {
   if (license !== "None") {
     return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`
@@ -15,7 +14,6 @@ function renderLicenseLink(license) {
   return ''
 }
 
-// function to generate markdown for README
 function renderLicenseSection(license) {
   if (license !== "None") {
     return (
@@ -38,6 +36,10 @@ ${data.description}
 ## Table of Contents 
 
 * [Installation](#installation)
+
+* [github](#github)
+
+* [webpage](#webpage)
 
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
@@ -76,14 +78,6 @@ ${data.test}
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at [${data.github}](https://github.com/${data.github}/).
-
-`;
-}
-
-module.exports = generateMarkdown;
-
-function generateMarkdown(data) {
-  return `# ${data.title}
 
 `;
 }
